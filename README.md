@@ -1,2 +1,2 @@
-# app-wikipedia
-Wikipedia application for Oniro
+# app-encyclopedia
+encyclopedia application for PureHarmony
